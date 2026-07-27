@@ -1,0 +1,16 @@
+# Supermarket Billing System
+
+## Project Description
+The Supermarket Billing System is a Python program developed for SmartBuy Supermarket. It automates product data entry, total bill calculations, promotional discount evaluation, and generates structured receipts.
+
+## How the Program Works
+1. Accepts product name, quantity, and unit price.
+2. Stores item entries in lists.
+3. Calculates the subtotal and applies a 10% discount if the subtotal exceeds Le 500.
+4. Displays a formatted receipt.
+5. Prompts the cashier to process additional customers continuously.
+
+## How to Run the Program
+1. Open any terminal or online Python compiler.
+2. Run `main.py`.
+3. Follow the on-screen prompts to enter product items.
