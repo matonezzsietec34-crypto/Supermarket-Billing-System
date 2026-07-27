@@ -1,0 +1,17 @@
+# System Documentation & DPG Compliance
+
+#  Problem Solved
+Eliminates manual calculation errors, speeds up customer checkout, automatically enforces discount policies, and generates clear customer receipts for SmartBuy Supermarket.
+
+# Features
+* Multi-item listing using dynamic lists.
+* Automated 10% discount calculation above Le 500.
+* Infinite loop handling for multiple customers.
+
+#  Future Improvements
+* Integration with a database (e.g., SQLite) for sales history.
+* Graphical User Interface (GUI).
+* Barcode scanner support.
+
+#  Real Business & Societal Impact
+Provides small retail businesses with a cost-free point-of-sale solution to improve operational accuracy, build customer trust, and streamline sales tracking.
